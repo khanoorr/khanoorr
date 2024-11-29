@@ -1,3 +1,4 @@
+<img align="center" src="./noorbanner.jpg "/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khanoorr.khanoorr" />
 
 <h1 align="center">
