@@ -1,4 +1,5 @@
-
+<img src="./noorbanner.jpg"/>
+<hr/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khanoorr.khanoorr" />
 
 <h1 align="center">
